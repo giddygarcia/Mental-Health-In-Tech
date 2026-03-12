@@ -1,4 +1,4 @@
-# 📊 Mental Health in Tech Analysis (DS.v3.2.1.5)
+# 🧠 Mental Health in Tech Analysis
 
 This project aims to **understand the value and statistics of Mental Health in the Tech Industry in the late 2010s (2014-2019).** The notebook conducts data visualization and analysis, and statistical testing to **observe different tech roles, company sizing, diagnosed conditions and how they relate to each other** for the overall image and value of mental health in the tech industry during that time.
 
