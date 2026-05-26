@@ -33,7 +33,10 @@ Data is taken from years 2014 up to 2019 from  [Open Source Mental Illness (OSMI
 * seaborn>=0.11.0
 
 
-## #️⃣ Author and Contact Information
-Developed by: Christine Garcia
+## ✉️ Author and Contact Information
+Developed by: Christine Garcia 
 
-Have questions? [Further contact details and projects](https://github.com/giddygarcia)
+Have questions? Feel free to:
+* email me at cavgarcia22@gmail.com 
+* connect on [LinkedIn](www.linkedin.com/in/cavgarcia) 
+* or [view more projects](https://github.com/giddygarcia) that I enjoyed making
